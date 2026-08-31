@@ -8,8 +8,8 @@
 :root {
   --primary:#8B6914; --primary-dark:#5c4508; --primary-light:#c9a227;
   --bg:#f7f3eb; --card:#fff; --text:#1f1f1f; --muted:#5a5a5a; --border:#e0d6c4; --hover:#fdf6e3;
-  --cover-w: 72px;
-  --cover-h: 102px;
+  --cover-w: 96px;
+  --cover-h: 136px;
 }
 * { box-sizing:border-box; margin:0; padding:0; }
 body { font-family:"Segoe UI","Noto Sans Tamil","Latha",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.45; min-height:100vh; }
@@ -106,7 +106,7 @@ details.extra summary { cursor:pointer; color:var(--primary); font-weight:500; }
       <div class="stats"><strong id="count">164</strong> / 164 நூல்கள்</div>
     </div>
     <div class="filter-row">
-      <label>Sort</label>
+      <label>Sort By</label>
       <select id="sortBy">
         <option value="serial">Serial #</option>
         <option value="title">Title (A→Z)</option>
@@ -122,7 +122,7 @@ details.extra summary { cursor:pointer; color:var(--primary); font-weight:500; }
         <option value="category">Category</option>
         <option value="subject">Subject</option>
       </select>
-      <label>Group</label>
+      <label>Group By</label>
       <select id="groupBy">
         <option value="none" selected>None</option>
         <option value="year">Year</option>
@@ -134,7 +134,7 @@ details.extra summary { cursor:pointer; color:var(--primary); font-weight:500; }
         <option value="size">Size</option>
         <option value="author">Author</option>
       </select>
-      <label>Language</label>
+      <label>Source Language</label>
       <select id="filterLang">
         <option value="">All</option>
         <option value="Tamil">Tamil</option>

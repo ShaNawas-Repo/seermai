@@ -1,0 +1,34 @@
+I'm marketing this book:
+BOOK DETAILS:
+- Title : Siddharthan
+Extract the below details from the artifact
+- Original author & source language: [___]
+- Translator: [___]
+- Genre: [___]
+- One-line hook: [___]
+- Full blurb/synopsis: [___]
+- Target audience: [e.g., Tamil literature readers, diaspora readers,
+  students, general fiction readers]
+- Comparable/similar titles readers would know: [___]
+- Publication date: [___]
+- Where to buy (links): [___]
+TONE/VOICE:
+- [e.g., literary and reflective / warm and accessible / bold and modern]
+- Language: [Tamil / English / both]
+TASK — please generate all of the following in one response:
+1. 10 social media captions (mix of Instagram/Facebook), varied styles:
+   quote-based, translator-insight, behind-the-scenes, countdown/urgency,
+   reader-question
+2. 1 press release (150-200 words) for local media/literary magazines
+3. 1 pitch email to book bloggers/reviewers requesting a review
+4. 1 pitch email to Tamil BookTubers/podcasters for an interview
+5. 1 launch announcement email for our newsletter subscribers
+6. 5 short ad copy variations (under 40 words each) for Meta/Instagram ads
+7. 1 Amazon/retailer product description, SEO-optimized with relevant
+   keywords and categories
+8. 3 discussion questions for book clubs
+9. A translator's note draft (300 words) — why this book, why now,
+   what was challenging/rewarding about translating it
+also, Add the above as a standard template in the artifact
+
+Attached is the pdf of the book, keep this book as private
